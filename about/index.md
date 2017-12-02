@@ -1,26 +1,27 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About Travis
+excerpt: "Travis is a data scientist who writes about related stuff."
+modified: 2017-11-08T19:44:38.564948-04:00
+permalink: /about/
+masthead:
+  image: true
+  description: false
+  site_title: false
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+# Experience
+Since 2004, Travis has been professionally involved with the information technology.  Highlighted roles:
+* As a programmer/analyst for the [largest military cohort study](https://www.millenniumcohort.org), [contributing to peer reviewed research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198753/)
+* Founded and sold a company with the [largest database of US manufacturing companies](http://www.industrialinterface.com)
+* Performed data analysis/product management/paid acquisition for a publisher with 10+ million monthly sessions in a [highly competitive SEO/PPC industry](http://www.wordstream.com/articles/most-expensive-keywords).
+* Built and led a growth team for the marketing arm of a publicly traded healthcare company
 
-## So Simple Theme is all about:
+# Background
+Travis grew up in San Diego, California.  He attended Vanderbilt University School of Engineering, graduating in 2004 with a double major in Computer Science and English.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+# Data Philosophy
+Data can have a big impact on understanding the world, illuminating dark corners that were previously unknown.  It can also be used inappropriately -- *for support rather than illumination* -- especially unconsciously.  This is why **data discipline matters.**
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+* Seeking the answer you want will inject bias. Knowing the answer you want will inject bias.  **This is often worse than no answer.**
+* If you look to data to confirm you're right, **you are wrong.**
