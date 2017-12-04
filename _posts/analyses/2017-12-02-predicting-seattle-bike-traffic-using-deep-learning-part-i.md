@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Projecting Seattle Bike Traffic"
+title: "Part I: Projecting Seattle Bike Traffic"
 excerpt: "Deep Learning can be a powerful tool to project time series data.  Learn how to project bicycle traffic on a Seattle bridge using previous data."
 categories: analyses
 tags: [notes, jupyter]
