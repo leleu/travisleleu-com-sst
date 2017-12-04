@@ -19,6 +19,11 @@ Jake Vanderplas has a great video series about [reproducible analysis in Jupyter
 
 Before closing out of an analysis session, make sure you can run your notebook from a clean state.
 
+<figure>
+	<a href="/images/restart-run-all.png"><img src="/images/optimization-result.png" alt="Restart & Run All Cell"></a>
+	<figcaption>Tests Notebook Linearity, an important part of reproducibility</figcaption>
+</figure>
+
 ### Video Timelines and Notes
 [video 1 [5min] - acquiring, loading, plotting data.](https://www.youtube.com/watch?v=_ZEWDGpM-vM&list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ&index=1)
 * Retrieve data from code; reproducible analysis starts with acquiring the data.
@@ -61,10 +66,6 @@ Before closing out of an analysis session, make sure you can run your notebook f
 <figure>
 	<a href="/images/bikepath-usage.png"><img src="/images/optimization-result.png" alt="Speedup after an improved read_csv invocation"></a>
 	<figcaption>From 22s to &lt;0.5s because we understood how pd works</figcaption>
-</figure>
-<figure>
-	<a href="/images/restart-run-all.png"><img src="/images/optimization-result.png" alt="Restart & Run All Cell"></a>
-	<figcaption>Tests Notebook Linearity, an important part of reproducibility</figcaption>
 </figure>
 
 [video 8 [6min] - debugging](https://www.youtube.com/watch?v=jHjyUTQHjDg&list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ&index=8)
