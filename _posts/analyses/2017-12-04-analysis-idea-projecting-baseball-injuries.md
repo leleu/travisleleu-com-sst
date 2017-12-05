@@ -4,8 +4,8 @@ title: "Analysis Idea: Projecting Baseball Injuries"
 excerpt: "Walk through a couple different ways to predict pitching injuries in Major League Baseball"
 categories: analyses
 tags: [baseball, idea]
-modified: 2017-12-01T18:17:50-07:00
-published: false
+modified: 2017-12-04T23:17:50-07:00
+published: true
 ---
 
 # Analysis Idea
