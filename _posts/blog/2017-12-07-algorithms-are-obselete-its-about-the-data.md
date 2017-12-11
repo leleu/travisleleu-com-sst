@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Algorithms are Obsolete."
+title: "Algorithms are Obsolete"
 excerpt: "Mike Judge's hit tv show Silicon Valley gets it wrong.  Algorithms are obsolete; it's about the data.."
 categories: analyses
 tags: [ai, analyses]
 modified: 2017-12-015T12:17:50-07:00
 published: true
 ---
-# Algorithms are Obsolete 
+# Algorithms are Obsolete. It's About the Data.
 AI/ML/DL is focused on strategies for finding an acceptable/nearly optimal algorithm for a given set of data.  It uses a fitness function to evaluate those algorithms, then adjust the parameters accordingly.
 
 This general purpose strategy for finding good solutions means that generalized algorithms are becoming obsolete.  We use A* search for pathfinding in general because it does pretty well in general.  But Deep Learning and the other trendy acronyms can create an algorithm that is customized for the specific data and heuristic for each problem.  Specialization wins, as usual.
 
-## They're Giving it Away 
+## Free Algorithms 
 The major players give away AI algorithms -- convolutional neural nets, recursive networks, GANs, etc -- for free.  Google has put a ton of marketing effort behind it's AI library, [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow).  Facebook, MS, and even Apple have all joined the open source tactic.  This benefits them because it gets bright minds contributing to their core technologies, while they hold back the secret sauce: the data they have collected over the years.  (And the infrastructure they developed to run these massive systems.)
 
 ## Post-Hype AI 
