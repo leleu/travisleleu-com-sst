@@ -19,9 +19,9 @@ It takes a lot of effort to accept our brains skew our perception.  Huge industr
 </figure>
 
 
-Road & Track Magazine recently published on [why vehicle sales can decline in the years after initial release](http://www.roadandtrack.com/car-culture/a12469411/dont-ask-november-2017/).  Novelty plays a role, but the article suggests that iterative improvements can cause products to drift from the original, primary value proposition.  You like your big SUV; making it smaller so it can be easily parked degrades the primary performance dimension.
+Road & Track Magazine recently explained [why vehicle sales can decline in the years after initial release](http://www.roadandtrack.com/car-culture/a12469411/dont-ask-november-2017/).  Novelty plays a role, but the article suggests that iterative improvements can cause products to drift away from what originally drew them.  People like their big SUV; making it smaller to easily park degrades the primary performance dimension.
 
-Put another way: when a manufacturer listens to consumers, and implements their feedback, it can hurt sales.
+The impact can be real: when a manufacturer listens to consumers, and directly implements their feedback, it can hurt sales.
 
 <blockquote>
 	Cadillac’s Seville STS of the early Nineties was a shocker: wide, low, powered by a dual-overhead cam Northstar V8. It had a broad stance, large C-pillars, and a sharply raked windshield. It had great “presence,” that indefinable quality that makes a car look good and desirable. It sold astonishingly well. But happy owners, when questioned, said that visibility could be better out of the windshield, sides, and back. Armed with this useful feedback, product planners guided designers into the 1998 Seville STS. More upright windshield. Less tumblehome. Wider roof. Thinner C-pillars. Cadillac had checked all the “dissatisfiers.” The car was mechanically better but got a disappointing reception. The reason: Customers just didn’t like the way it looked.

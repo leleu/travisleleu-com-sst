@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Why would people intentionally burn themselves out of their homes"
@@ -27,6 +26,6 @@ Possible Reasons:
 * Symbolic end of house
 
 Interpretation: 
-* from death, life
+* death->life
 * destruction is a force of randomness that forces the gamesplayer to start fresh
-* from time to time, it's import to restart
+* from time to time, it's important to restart
