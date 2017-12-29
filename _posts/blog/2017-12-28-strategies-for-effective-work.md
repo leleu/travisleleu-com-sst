@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Strategies for Effective Work"
-excerpt: "Work on your working, so you can work better."
+title: "Book Notes: The Effective Engineer"
+excerpt: "Strategies for Effective Work"
 categories: blog
 tags: [optimization]
 modified: 2017-12-27T12:17:50-07:00
 published: true
 ---
+Related: a great article about [how to run an effective engineering organization](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) popped up this morning on HN.
+
 # The Effective Engineer
 * Optimize for Learning
 * Invest in tools that save time
