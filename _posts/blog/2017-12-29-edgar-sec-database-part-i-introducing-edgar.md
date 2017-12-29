@@ -7,11 +7,11 @@ tags: [public-data,edgar,sec]
 modified: 2017-12-29T14:17:50-07:00
 published: true
 ---
-The EDGAR (Electronic Data Gathering, Analysis, and Retrieval) system is where companies file required paperwork to the SEC.  All data is indexed, accepted, and forwarded by EDGAR to the appropriate parties.
+The US SEC operates EDGAR (Electronic Data Gathering, Analysis, and Retrieval) a system where companies electronically file required paperwork.
 
-It is also completely public, and really really big.  There have been [concerns about data quality](http://oversight.house.gov/wp-content/uploads/2013/09/2013-09-10-DEI-to-White-re-Interactive-Data-Rule.pdf) in the past, although some of the evidence is by a nonprofit who sells software to ensure compliance.
+It is also  public, and really really big.  There have been [concerns about data quality](http://oversight.house.gov/wp-content/uploads/2013/09/2013-09-10-DEI-to-White-re-Interactive-Data-Rule.pdf) in the past, although some of the evidence cited is from a nonprofit who sells software to help compliance.
 
-This information is part 1 in a series on the data in this system.  In this introductory post, I will introduce some of the basics of the system.  I'd like to answer the following questions:
+In this introductory post, I will introduce some of the basics of EDGAR.  I'd like to answer the following questions:
 * What is EDGAR?
 * What kind of data does EDGAR have?
 * Why should I care?
