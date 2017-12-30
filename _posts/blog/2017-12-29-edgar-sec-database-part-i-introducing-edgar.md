@@ -7,7 +7,7 @@ tags: [public-data,edgar,sec]
 modified: 2017-12-29T14:17:50-07:00
 published: true
 ---
-The US SEC operates EDGAR (Electronic Data Gathering, Analysis, and Retrieval) a system where companies electronically file required paperwork.
+The US SEC operates EDGAR (Electronic Data Gathering, Analysis, and Retrieval) a system where companies electronically file required paperwork.  This is the first post in a [series about EDGAR](/blog/edgar-sec-data-series-index/).
 
 It is also  public, and really really big.  There have been [concerns about data quality](http://oversight.house.gov/wp-content/uploads/2013/09/2013-09-10-DEI-to-White-re-Interactive-Data-Rule.pdf) in the past, although some of the evidence cited is from a nonprofit who sells software to help compliance.
 
