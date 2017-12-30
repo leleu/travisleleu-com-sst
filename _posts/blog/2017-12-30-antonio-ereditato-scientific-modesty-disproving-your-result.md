@@ -46,3 +46,6 @@ That's the key part of the scientific method -- you can only disprove hypotheses
 
 In Mr. Ereditato's case, the fault was found in the cabling for the electronics.  He eventually disproved the discovery that would be his life's work.  Had he not exhibited such discipline against strong internal biases, he would have continued experimenting with skewed timing systems.  The timing issue would eventually be found by others, and cost him all those years of the other biased experiments.
 
+## Epilogue
+
+Unfortunately, when the dust settled, the experimental oversight committee voted no-confidence, leading to Mr. Ereditato's resignation.  He was scapegoated by the committee after the news leaked and media organizations hyped the discovery.  In reality, he was doing his best to disprove his results, rather than shouting them too early for his 15 minutes.
