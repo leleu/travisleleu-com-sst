@@ -18,14 +18,14 @@ I've been thinking about what he should learn, or be aware of.  Now we're all on
 	<figcaption>Drew Conway's famous Venn Diagram of the field</figcaption>
 </figure>
 
-The common view of d.s. is the intersection of statistics, coding skills, and substantive expertise.  Personally, I see it more as the intersection of coding skills, risk awareness (instead of Statistics), and Intellectual Curiosity (instead of domain knowledge).
+The common view of d.s. is the intersection of statistics, coding skills, and substantive expertise.  I see it more as the intersection of coding skills, risk awareness (instead of Statistics), and Intellectual Curiosity (instead of domain knowledge).
 
-Statistical knowledge is certainly important, but you don't need to be an expert.  You just need to be aware of the risks and tradeoffs of the techniques you use.  Most of the time, the statistical work is fairly minimal, but the data discipline / risk awareness is important.
+Statistical knowledge is important, but you don't need to be an expert.  Be aware of the risks and tradeoffs of the techniques you use, be aware you will be biased towards results you want (very bad thing; the biggest 'gotcha' in the field, and ruiner of models).  Most of the time, the statistical work is fairly minimal, but the data discipline / risk awareness is important.
 
 Substantive Expertise is fraught with biases and peril.  In "traditional" ML, you needed an expert to engineer the features you'd build into models -- you need someone to tell you what's significant in the field of study.  Not so much anymore, a point I'll elaborate on later.
 
 ## OK, what should I learn then?
-How to acquire and clean data for analysis.  Seriously, that's >80% of the work to building useable models for fun and profit.
+How to acquire and clean data.  Take a source, put it into a database or cleaned CSVs.  Seriously, that's >80% of the work to building useable models.
 
 ## Skills Needed
 * Data scraping skills.  Javascript and Python are great options.
@@ -40,6 +40,9 @@ How to acquire and clean data for analysis.  Seriously, that's >80% of the work 
 Start hacking.  Find some data you want, scrape it.  Summarize it.  Try to do a regression, then a prediction.  Write about it.
 
 Classes are de rigeur for many newbies, but I question whether they'll have the toughness to produce valid results.  Do your own analyses, try a few of the demo Kaggle competitions.  Once you have a couple hundred hours of practical experience on several datasets, then dive into the theory.
+
+## Example
+Check out my [series on the SEC EDGAR database](https://travisleleu.com/blog/edgar-sec-data-series-index/) (1TB of U.S. regulatory financial data)
 
 ## Conclusion
 Get your hands dirty.  This field isn't a white glove, at a distance, theory based one.  The way to learn is to do.
