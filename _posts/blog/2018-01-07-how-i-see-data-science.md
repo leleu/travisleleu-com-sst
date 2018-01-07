@@ -10,9 +10,11 @@ published: true
 A friend recently mentioned he was picking up Python, in an effort to dip his toes into the data science career path.  He's got a very strong theoretical grasp of programming, even if his preferred tools are JS and PHP.
 
 I've been thinking about what he should learn, or be aware of.  Now we're all on the same page.
----
+
+<hr />
+
 <figure>
-	<a href="/images/drew-conway-data-science-venn-diagram.png"><img src="/images/drew-conway-data-science-venn-diagram.png" alt="Data Science Diagram"></a>
+	<a href="/images/drew-conway-data-science-venn-diagram.jpg"><img src="/images/drew-conway-data-science-venn-diagram.jpg" alt="Data Science Diagram"></a>
 	<figcaption>Drew Conway's famous Venn Diagram of the field</figcaption>
 </figure>
 
