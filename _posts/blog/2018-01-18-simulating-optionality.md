@@ -21,7 +21,7 @@ Suppose you have an outcome you want to optimize -- we shall consider a company'
 * 20% lift is 20 more signups per day, $2000 additional dollars per day, $60,000 per month
 
 <figure>
-	<img src="images/situation-3-optionality.png" alt=""></a>
+	<img src="images/situation-3-optionality.png" alt="">
 	<figcaption>In a highly uncertain environment, it may be valuable to run more tests with fewer options, bounded by the number of tests you can think to run</figcaption>
 </figure>
 
