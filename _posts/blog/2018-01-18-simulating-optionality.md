@@ -20,6 +20,13 @@ Suppose you have an outcome you want to optimize -- we shall consider a company'
 * Assume cLTV at $100
 * 20% lift is 20 more signups per day, $2000 additional dollars per day, $60,000 per month
 
+<figure>
+	<img src="images/situation-3-optionality.png" alt=""></a>
+	<figcaption>In a highly uncertain environment, it may be valuable to run more tests with fewer options, bounded by the number of tests you can think to run</figcaption>
+</figure>
+
+
+
 You can see why companies in growth stages are so excited about split testing.  For the right situation, it can print money.
 
-## Check out the Jupyter notebook hosted at github for the code, embedded graphs, and other insight.  The takeaway: the greater the uncertainty in any decision, the more important it is to explore options.
+Check out the (Jupyter notebook hosted at github)[https://github.com/leleu/travisleleu-com-sst/blob/master/notebooks/split%2Btesting%2Boptionality%2Bsimulation.ipynb] for the code, embedded graphs, and other insight.  The takeaway: the greater the uncertainty in any decision, the more important it is to explore options.
