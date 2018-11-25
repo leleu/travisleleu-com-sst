@@ -1,0 +1,1 @@
+https://aeon.co/essays/why-we-make-better-decisions-together-than-we-do-on-our-own
