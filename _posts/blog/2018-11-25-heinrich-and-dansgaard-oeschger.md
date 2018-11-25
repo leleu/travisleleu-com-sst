@@ -32,3 +32,5 @@ For Heinrich events (extreme cold in between 6 of the D-O periods), there is cor
 It does appear likely these rapid temperature fluctuations occurred, at least in Greenland.  While we don't know what caused them, it's interesting to learn how climate scientists infer climate history from indirect evidence, and to understand the limitations and possible incorrect beliefs about the conclusions drawn.
 
 More information is available on the [Wikipedia](https://en.wikipedia.org/wiki/Dansgaard%E2%80%93Oeschger_event) page or the [NOAA website](https://www.ncdc.noaa.gov/abrupt-climate-change/Heinrich%20and%20Dansgaard%E2%80%93Oeschger%20Events)
+
+I also recommend you check out the [XKCD comic](https://wattsupwiththat.com/2016/09/29/earths-obliquity-and-temperature-over-the-last-20000-years/) that started this exploration.
