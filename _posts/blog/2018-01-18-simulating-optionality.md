@@ -26,7 +26,6 @@ Suppose you have an outcome you want to optimize -- we shall consider a company'
 </figure>
 
 
-
 You can see why companies in growth stages are so excited about split testing.  For the right situation, it can print money.
 
-Check out the (Jupyter notebook hosted at github)[https://github.com/leleu/travisleleu-com-sst/blob/master/notebooks/split%2Btesting%2Boptionality%2Bsimulation.ipynb] for the code, embedded graphs, and other insight.  The takeaway: the greater the uncertainty in any decision, the more important it is to explore options.
+Check out the [Jupyter notebook hosted at github](https://github.com/leleu/travisleleu-com-sst/blob/master/notebooks/split%2Btesting%2Boptionality%2Bsimulation.ipynb) for the code, embedded graphs, and other insight.  The takeaway: the greater the uncertainty in any decision, the more important it is to explore options.

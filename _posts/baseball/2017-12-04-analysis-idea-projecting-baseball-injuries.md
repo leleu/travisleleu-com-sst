@@ -3,7 +3,7 @@ layout: post
 title: "Analysis Idea: Projecting Baseball Injuries"
 excerpt: "Walk through a couple different ways to predict pitching injuries in Major League Baseball"
 categories: analyses
-tags: [baseball, idea]
+tags: [baseball, injuries]
 modified: 2017-12-04T23:17:50-07:00
 published: true
 ---

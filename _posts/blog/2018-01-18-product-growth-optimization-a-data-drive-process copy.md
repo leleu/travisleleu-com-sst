@@ -7,10 +7,6 @@ tags: [product,growth]
 modified: 2018-01-17T18:17:50-07:00
 published: true
 ---
-<blockquote>As an Infrastructure guy, the pattern I've seen time and time again is Developers thinking the previous generation had no idea what they were doing and they'll do it way better. They usually nail the first 80%, then hit a new edge case not well handled by their architecture/model (but was by the old system) and/or start adding swathes of new features during the rewrite.
--- [HN Comment](https://news.ycombinator.com/item?id=16200007)</blockquote>
-
-
 Companies are ready for product growth after they've developed a fit between what they produce and what their potential customers will buy.
 
 In terms of AI pathfinding, you have narrowed the possible search space.  There is approximate coherence between things like customer profile, market definition, revenue model, featureset, and more.
@@ -30,7 +26,7 @@ The early stages of a product are optimized for learning, whereas growth stage n
 
 The rate of change before the growth stage is so rapid that heavy investments in data systems are unwise; they quickly grow outdated, and maintenance slows down the pace that is so crucial early on.  In the growth stage, however, the company has a feel for what they should measure, and need to implement a system to start measuring it.  This helps with organizational communication, as decisions supported by data receive broad cross-team support from key stakeholders.
 
-## Data first
+## First things first
 Learn what each team's primary objectives are, from their perspective.  How do they see their work supporting the larger organization objectives.  If their culture is a fit for data solutions, learn what things each team cares about.  Then work with each team to automate the collection and display of their primary KPIs.
 
 First, work to support each team.  Build rapport, but challenge each team to tie their primary metrics to the broader organizational goals.  If the org is focused on signup conversion rates, for example, the dev team should be supported to understand how page or app load time affects that rate.

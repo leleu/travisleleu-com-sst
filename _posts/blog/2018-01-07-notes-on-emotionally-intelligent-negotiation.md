@@ -4,7 +4,7 @@ title: "Emotionally Intelligent Negotiation"
 excerpt: "Farnam Street Podcast and a former FBI hostage negotiator review theory & practice of how to let the other side give you what you want."
 categories: blog
 tags: [psychology, negotiation]
-modified: 2018-01-87T18:17:50-07:00
+modified: 2018-01-08T18:17:50-07:00
 published: true
 ---
 * If you let the other side go first, you'll save time.  "Delay things in order to save time".  We think "let me tell you what I want so you can give it to me"

@@ -4,7 +4,7 @@ title: "Gut Science"
 excerpt: "From Farnham Streets post on intuition versus rationality"
 categories: blog
 tags: [psychology]
-modified: 2018-01-87T18:17:50-07:00
+modified: 2018-01-08T18:17:50-07:00
 published: true
 ---
 Great quotes from the F.S. article [Intuition vs. Rationality](https://www.farnamstreetblog.com/2018/01/intuition-rationality/).
