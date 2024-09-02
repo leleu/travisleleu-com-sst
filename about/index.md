@@ -20,8 +20,8 @@ I am currently a data engineering manager at Meta, after spending my entire care
   * Launched premium leadgen product in competitive industry vertical
 * 2010-2014: Founder at Industrial Interface, Inc.
   * Founded and sold a company with the [largest database of US manufacturing companies](https://web.archive.org/web/20120104060410/http://www.industrialinterface.com/)
-* 2004-2010: Data Engineer, Analyst, and Application Developer at the Henry M. Jackson Foundation - embedded in the Naval Health Research Center
-  * As a programmer/analyst for the [largest military cohort study](https://www.millenniumcohort.org), [contributing to peer reviewed research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198753/)
+* 2004-2010: Data Engineer, Analyst, and Application Developer at [Henry M. Jackson Foundation](https://www.hjf.org/)
+  * Programmer/analyst for the [largest military cohort study](https://www.millenniumcohort.org), [contributed to peer reviewed research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198753/)
 
 # Background
 Travis grew up in San Diego, California, where he lives with his amazing wife and beautiful daughter.  He attended Vanderbilt University School of Engineering, graduating in 2004 with a double major in Computer Science and English.
@@ -36,4 +36,3 @@ Data can have a big impact on understanding the world, illuminating dark corners
 * *Errors using inadequate data are much less than those using no data at all.* — Charles Babbage
 * *Data that is loved tends to survive.* — Kurt Bollacker
 * *Look at your $%!@ data!" - [Hamel Husain](https://twitter.com/HamelHusain/status/1796531419654803835)
-
